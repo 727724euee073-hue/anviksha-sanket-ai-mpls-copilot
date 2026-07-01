@@ -432,13 +432,6 @@ The completed platform will integrate:
 to provide a complete offline AI solution for mission-critical secure networks.
 
 ---
-
-# 📸 Screenshot
-
-> *(Add `output/forecast_chart.png` after running the project.)*
-
----
-
 # 📄 License
 
 Developed as part of the **Bharatiya Antariksh Hackathon 2026** for **Problem Statement 13 – Air-Gapped Predictive Copilot for Secure MPLS Operations**.
