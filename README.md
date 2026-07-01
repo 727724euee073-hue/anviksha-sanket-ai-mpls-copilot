@@ -167,6 +167,8 @@ python -m pip install -r requirements.txt
 Execute the complete prediction pipeline
 
 ```bash
+cd predictive-fault-engine
+python -m pip install -r requirements.txt
 python run_pipeline.py
 ```
 
@@ -432,6 +434,9 @@ The completed platform will integrate:
 to provide a complete offline AI solution for mission-critical secure networks.
 
 ---
+
+
+
 # 📄 License
 
 Developed as part of the **Bharatiya Antariksh Hackathon 2026** for **Problem Statement 13 – Air-Gapped Predictive Copilot for Secure MPLS Operations**.
