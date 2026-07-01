@@ -1,0 +1,7 @@
+{
+  "predicted_issue": "Interface congestion \u2014 hub-spoke link",
+  "confidence_score": 0.91,
+  "time_to_impact": "0 minutes",
+  "affected_scope": "Branch site to Hub",
+  "current_trend": "utilization rising 28.2%/interval"
+}
